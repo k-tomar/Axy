@@ -1,0 +1,14 @@
+{
+  "name": "Axy",
+  "version": "0.0.1",
+  "description": "Axy - The url shortener",
+  "author": "OnGraph",
+  "dependencies": {
+    "body-parser": "^1.2.0",
+    "express": "^4.2.0",
+    "method-override": "^1.0.0",
+    "mongoose": "^3.8.8",
+    "morgan": "^1.0.0",
+    "short-id": "0.1.0-1"
+  }
+}
